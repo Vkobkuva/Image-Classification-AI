@@ -1,0 +1,5 @@
+__pycache__/
+.vscode/
+cifar10_cnn_model.h5
+*.pyc
+.DS_Store
